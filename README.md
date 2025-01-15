@@ -1,7 +1,7 @@
 
 # "matrixCalculator" Program
 
-by Joakim Kvistholm.
+By Joakim Kvistholm.
 
 The program can use different operators and calculations on a 3 x 3 matrix A
 (or A1). Calculations such as det(A), A^n and exp(A) can be made. To enable this 
